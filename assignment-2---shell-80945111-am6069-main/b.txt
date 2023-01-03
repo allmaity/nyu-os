@@ -1,0 +1,6 @@
+a.txt
+b.txt
+README.md
+shell
+shell.c
+words.txt
